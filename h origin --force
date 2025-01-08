@@ -1,0 +1,32 @@
+[33mcommit ae45c7803f1499e79aac5e760bc08a4c8a043b5f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/assignment-4[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32massignment-4[m[33m)[m
+Author: swathismenon <swathi.menon@hyperisland.se>
+Date:   Wed Jan 8 12:09:56 2025 +0100
+
+    assignment
+
+[33mcommit 3e95beb1b6c91d7b797cd3a57c3f513335a92a70[m
+Author: swathismenon <swathi.menon@hyperisland.se>
+Date:   Wed Jan 8 12:06:11 2025 +0100
+
+    assignment 4th
+
+[33mcommit 20f719998c967d13af22a5254a52fe1aed7b7e05[m
+Merge: 055ba93 140051b
+Author: swathismenon <swathi.menon@hyperisland.se>
+Date:   Thu Dec 19 13:52:49 2024 +0100
+
+    Merge pull request #1 from swathismenon/Assignment1&2
+    
+    done assignment 1 and assignment 2
+
+[33mcommit 140051b54d983c79f01dcd238da6d316b38410b9[m[33m ([m[1;31morigin/Assignment1&2[m[33m)[m
+Author: swathismenon <swathi.menon@hyperisland.se>
+Date:   Thu Dec 19 13:50:50 2024 +0100
+
+    done assignment 1 and assignment 2
+
+[33mcommit 055ba93729a2f4b59c54596d53a9fef1af09b889[m
+Author: swathismenon <swathi.menon@hyperisland.se>
+Date:   Thu Dec 19 13:43:11 2024 +0100
+
+    Initial commit
