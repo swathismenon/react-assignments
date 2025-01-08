@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
       radioInput.style.cursor = "pointer";
     });
   
-    
+    // styling
     const submitBtn = document.querySelector("input[type='submit']");
     submitBtn.style.borderRadius = "5px";
     submitBtn.style.cursor = "pointer";
