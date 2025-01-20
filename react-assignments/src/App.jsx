@@ -1,5 +1,4 @@
 import "./App.css";
-import PropsComponent from "./Components/MyStateComponent/PropsComponent";
 
 function App() {
   const person = {
@@ -17,8 +16,19 @@ function App() {
       <header>
         <h1>This is React</h1>
       </header>
-      {/* TODO create a child component in proper jsx, the component takes the person object as props and render the data */}
-      <PropsComponent person={person} />
+      {/* Render the person data directly in the App component */}
+      <div>
+        <h2>{person.name}</h2>
+        <p>Age: {person.info.age}</p>
+        <p>City: {person.info.city}</p>
+        <p>Job: {person.info.job}</p>
+        <h3>Hobbies:</h3>
+        <ul>
+          {person.info.hobbies.map((hobby, index) => (
+            <li key={index}>{hobby}</li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
 }
